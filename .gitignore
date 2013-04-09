@@ -1,0 +1,9 @@
+#.project and .pydevproject files
+.project
+.pydevproject
+
+#inbuilt apple file
+*.DS_Store
+
+#ignoring python compile files
+*.pyc
